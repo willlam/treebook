@@ -3,3 +3,9 @@ will:
   last_name: "Lam"
   email: "will@teamtreehouse.com"
   profile_name: "will"
+
+irene:
+  first_name: "Irene"
+  last_name: "Kuan"
+  email: "irene@teamtreehouse.com"
+  profile_name: "irene"
